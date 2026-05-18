@@ -8,7 +8,7 @@
 
 | Splash Screen | Prayer Times | Athkar | Morning Athkar | Tasbih |
 |---|---|---|---|---|
-| ![Splash](screenshots/preview4.png) | ![Prayer](screenshots/preview.png) | ![Athkar](screenshots/preview2.png) | ![Morning](screenshots/preview3.png) | ![Tasbih](screenshots/preview5.png) |
+| ![Splash](screenshots/preview4.jpg) | ![Prayer](screenshots/preview.jpg) | ![Athkar](screenshots/preview2.jpg) | ![Morning](screenshots/preview3.jpg) | ![Tasbih](screenshots/preview5.jpg) |
 
 ---
 
